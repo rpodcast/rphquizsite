@@ -8,5 +8,5 @@ The R/Pharma 2022 Quiz is online for today's session only! You can access the qu
 
 **Preferred Link**: [misty-pond-9283.fly.dev](https://misty-pond-9283.fly.dev/)
 
-**Backup Link**: [rsc.training.rstudio.com/rphquiz/](rsc.training.rstudio.com/rphquiz)
+**Backup Link**: [rsc.training.rstudio.com/rphquiz/](https://rsc.training.rstudio.com/rphquiz)
 
